@@ -8,7 +8,7 @@ Auszug aus Magists Datenbank ohne Dokumentation erhalten und daraus die Antworte
 die Fragen des Managements abgeleitet.
 
 > **Hinweis:** Eniac und Magist sind **fiktive Unternehmen**. Es handelt sich um eine
-> Übungs-Fallstudie aus der Weiterbildung Data Science & AI. Weder die Firmen noch die
+> Übungs-Fallstudie aus der Weiterbildung Data Science & AI/ Data Analytics & AI. Weder die Firmen noch die
 > beschriebene Geschäftsbeziehung existieren. Der verwendete Datensatz ist
 > Schulungsmaterial.
 
@@ -133,6 +133,6 @@ Vertrag, begründet aus den Daten und eigener Recherche zum brasilianischen Mark
 
 ## Team
 
-*(Namen)*
+{Error 404: Name nicht gefunden}
 
-Teil der Weiterbildung Data Science & AI.
+Teil der Weiterbildung Data Science & AI / Data Analytics & AI .
